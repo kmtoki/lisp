@@ -2,11 +2,10 @@ name:                lisp
 version:             0.1.0.0
 -- synopsis:
 -- description:
-homepage:            https://github.com/kumatoki/lisp#readme
+homepage:            https://github.com/kmtoki/lisp#readme
 license:             BSD3
 license-file:        LICENSE
 author:              kumatoki
-maintainer:          higumaido@gmail.com
 copyright:           MIT
 category:            Any
 build-type:          Simple
